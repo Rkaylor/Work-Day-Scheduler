@@ -3,10 +3,10 @@
 # Description
 This day planner allows you to enter tasks during regular business hours. It will also change colors depending on the time of day.
 
-If the text area is Red, that means it's the present time.
-If the text area is Gray, it means the time is past.
-If the text area is Green, it means the task is upcoming.
-Once you're finished organizing your day, click on the checkmark icon to save your task and it should appear the next time you open the page.
+- If the text area is Red, that means it's the present time.
+- If the text area is Gray, it means the time is past.
+- If the text area is Green, it means the task is upcoming.
+- Once you're finished organizing your day, click on the checkmark icon to save your task and it should appear the next time you open the page.
 
 # Instillation 
 run npm i

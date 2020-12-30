@@ -8,6 +8,9 @@ If the text area is Gray, it means the time is past.
 If the text area is Green, it means the task is upcoming.
 Once you're finished organizing your day, click on the checkmark icon to save your task and it should appear the next time you open the page.
 
+# Instillation 
+run npm i
+
 # Development Tools
 1. HTML
 2. CSS 
